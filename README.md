@@ -11,4 +11,4 @@ INSTALACIÓN
 USO
 CONTRIBUCIÓN
 CREDITOS
-LICENCIA
+LICENCIA (https://choosealicense.com)
